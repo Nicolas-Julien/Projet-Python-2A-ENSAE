@@ -10,3 +10,5 @@ Nous pourrons voir si nos résultats sont concrètement exploitables, lucrativem
 Peut-on gagner de l'argent dans les paris sportifs grâce aux modèles statistiques de prédiction ?
 
 **librairies utilisées : numpy, maths, pandas, seaborn, matplotlib, sckicit learn**
+
+*Nicolas JULIEN, Grégoire HUBERT
