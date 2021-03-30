@@ -11,4 +11,4 @@ Peut-on gagner de l'argent dans les paris sportifs grâce aux modèles statistiq
 
 **librairies utilisées : numpy, maths, pandas, seaborn, matplotlib, sckicit learn**
 
-*Nicolas JULIEN, Grégoire HUBERT
+*Nicolas JULIEN*
